@@ -1,0 +1,9 @@
+#franceSVG>*:hover, .selected{
+    fill: blue;
+}
+
+.resume-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
